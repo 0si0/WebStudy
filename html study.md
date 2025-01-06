@@ -14,21 +14,22 @@ head 에는 css에서 기능하는 스타일 등이 들어가고\
 body에는 내용이 들어간다.
 
 **기본 골자**
-""<!DOCTYPE html>
-(<html>)
+```html
+<!DOCTYPE html>
+<html>
     <head>
         <title> Web </title>
     </head>
     <body>
-
         안녕하세요
         저는 웹입니다
-        
-
     </body>
-(</html>)
-단축키로 vscode에서 !누르고 탭 누르면 기초골자 다 생성해줌
+</html>
+```        
+단축키로 vscode에서 !누르고 탭 누르면 기초골자 다 생성해줌\
 **shift + alt + F 누르면 vscode에서 보기 좋게 정렬 해줌**
+
+
 
 
 
